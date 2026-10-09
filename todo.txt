@@ -1,0 +1,4 @@
+To-Di List
+1.complete assignment
+2.prepare for exams
+3.learn git and github
